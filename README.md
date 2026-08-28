@@ -1,6 +1,6 @@
 # My First Coding Assignment
 
-![Fun Tiff](https://media.giphy.com/media/LBgmyXjkls7gZ3ReTp/giphy.gif)
+![Fun Tiff](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyNWk5eWJpNGE4dGVqaHVzb3c1MTE4a3U4c3VhMnFwZGc1bjk3azJjMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LBgmyXjkls7gZ3ReTp/200w.gif)
 
 ## About Me
 Hi! I'm Tiffany, a DC-based HR professional and creative, experiential, digital, and lifestyle designer. I love building things from the ground up and I'm currently expanding my skills in UX, UI, and AI. I'm always jumping at the chance to learn something new.
